@@ -5,4 +5,4 @@ Hands-on Microhack created by Microsoft Office of the CTO Americas, focused on A
 
 ## Presented by Microsoft Americas Office of the CTO
 
-Originally from
+Originally from [Build your first agent with Azure AI Agent Service](https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop) repository.
