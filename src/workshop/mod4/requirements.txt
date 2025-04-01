@@ -1,0 +1,6 @@
+azure-identity
+azure-ai-projects
+fastapi
+load_dotenv
+pydantic
+uvicorn
